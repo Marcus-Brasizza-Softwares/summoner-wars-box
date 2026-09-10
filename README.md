@@ -56,8 +56,8 @@ Na versão atual, o Summoner Lab usa a API de arquivos do navegador e mantém os
 ### Instalação
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
-cd summonerWars
+git clone https://github.com/Marcus-Brasizza-Softwares/summoner-wars-box.git
+cd summoner-wars-box
 npm install
 npm run dev
 ```
